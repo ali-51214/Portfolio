@@ -96,7 +96,7 @@ To apply my technical skills in embedded systems, PCB design, and IoT to solve r
 I’m always open to collaborations and professional opportunities. Feel free to reach out:
 
 - 📧 **Email**: sa9622738@gmail.com  
-- 🔗 **LinkedIn**: [Syed Muhammad Ali Shah](https://www.linkedin.com/in/your-linkedin-profile/)  
+- 🔗 **LinkedIn**: [Syed Muhammad Ali Shah]((https://www.linkedin.com/in/syed-muhammad-ali-shah-178531196/))  
 - 🗂️ **GitHub**: [ali-51214](https://github.com/ali-51214)
 
 ---
