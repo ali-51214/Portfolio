@@ -79,11 +79,11 @@ To apply my technical skills in embedded systems, PCB design, and IoT to solve r
 - ESP32 processed car counts and controlled LEDs based on traffic density.
 - Implemented UART serial communication with AT command configuration.
 
-### 🔵 **2. Custom USB-to-UART Converter (CH340 Based) — PCB Project**
+### 🔵 [Custom USB-to-UART Converter (CH340 Based) — PCB Project](https://github.com/ali-51214/USB-to-UART-Convertor_PCB-Design.)
 
 A custom PCB designed to improve usability by adding a **USB-power LED indicator**, along with proper ESD and reverse-polarity protection.
 
-#### **Key Components**
+#### **Key Components**(
 - **CH340** — USB-to-UART chip  
 - **TVS Diode (TPD2EUSB30DRTR)** — ESD protection for D+ / D−  
 - **Decoupling capacitors** — power stability  
