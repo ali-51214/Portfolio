@@ -39,6 +39,11 @@ To apply my technical skills in embedded systems, PCB design, and IoT to solve r
 ---
 
 ## 🧪 Experience
+### **Hardware Engineer — Logix ITS (Present)**
+- Design, build, and validate **test jigs and fixtures** for traffic products (speed cameras, sign controllers, sensors).  
+- Develop test procedures & automated validation flows for production.  
+- Perform root-cause analysis, troubleshoot electronic modules, and support R&D testing.  
+- Collaborate with firmware and product teams to improve **testability** and manufacturing processes.
 
 ### 📌 Instructional Assistant (IA)  
 **Northeastern University** — *Jan 2024 – Present*  
@@ -73,6 +78,24 @@ To apply my technical skills in embedded systems, PCB design, and IoT to solve r
 - Used LoRa (RYLR modules) to transmit real-time lane data from Python (laptop) to an ESP32.
 - ESP32 processed car counts and controlled LEDs based on traffic density.
 - Implemented UART serial communication with AT command configuration.
+
+### 🔵 **2. Custom USB-to-UART Converter (CH340 Based) — PCB Project**
+
+A custom PCB designed to improve usability by adding a **USB-power LED indicator**, along with proper ESD and reverse-polarity protection.
+
+#### **Key Components**
+- **CH340** — USB-to-UART chip  
+- **TVS Diode (TPD2EUSB30DRTR)** — ESD protection for D+ / D−  
+- **Decoupling capacitors** — power stability  
+- **LED indicator** — shows when USB is powered  
+- **Reverse-polarity protection diodes**  
+- Resistors for current regulation  
+
+#### **What I Focused On**
+- Routing high-speed USB data lines (impedance-aware layout)  
+- Power stability considerations  
+- Proper grounding strategy for USB protection  
+- Complete Altium workflow: schematic → PCB layout → DRC → Gerbers 
 
 ### ❤️ [IoT-Based Health Monitoring System](https://github.com/ali-51214/Iot-Based-Project)
 - Developed a wearable IoT device for health monitoring.
